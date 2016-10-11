@@ -1,0 +1,14 @@
+UnBundle 'scrooloose/nerdtree'
+UnBundle 'jistr/vim-nerdtree-tabs'
+UnBundle 'scrooloose/nerdcommenter'
+UnBundle 'scrooloose/syntastic'
+UnBundle 'spf13/vim-preview'
+UnBundle 'jiangmiao/auto-pairs'
+UnBundle 'vim-scripts/sessionman.vim'
+
+let g:indent_guides_enable_on_vim_startup = 0
+
+set clipboard=
+set expandtab
+set mouse=r
+set nofoldenable
